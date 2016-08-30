@@ -1,2 +1,4 @@
 # hello-world
-This is a repository. It is a central folder to everything related to this project.
+
+I'm learning how to use github as possibly a starting point on learning how to code. 
+It seems important to my career as an animator and learning another language, in general.
